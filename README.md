@@ -1,7 +1,8 @@
 **Overview**
 This project implements a Support Vector Machine (SVM) model to classify images of cats and dogs using the Kaggle Dogs vs Cats dataset.
 The model extracts grayscale pixel features from images and applies SVM for binary image classification.
-
+**DATASET** :
+https://zenodo.org/records/5226945
 **file structure:**
 dataset/
  └── train/
